@@ -1,0 +1,8 @@
+C:\Users\Usuario\Documents\PROGRAMACION\CRUD C#\CRUD_PRODUCTOS\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Usuario\Documents\PROGRAMACION\CRUD C#\CRUD_PRODUCTOS\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Usuario\Documents\PROGRAMACION\CRUD C#\CRUD_PRODUCTOS\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\Documents\PROGRAMACION\CRUD C#\CRUD_PRODUCTOS\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\Documents\PROGRAMACION\CRUD C#\CRUD_PRODUCTOS\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\PROGRAMACION\CRUD C#\CRUD_PRODUCTOS\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\Usuario\Documents\PROGRAMACION\CRUD C#\CRUD_PRODUCTOS\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Usuario\Documents\PROGRAMACION\CRUD C#\CRUD_PRODUCTOS\CapaLogica\obj\Debug\CapaLogica.pdb

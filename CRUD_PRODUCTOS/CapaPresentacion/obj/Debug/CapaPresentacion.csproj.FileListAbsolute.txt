@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\PROGRAMACION\CRUD C#\CRUD_PRODUCTOS\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Usuario\Documents\PROGRAMACION\CRUD C#\CRUD_PRODUCTOS\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Usuario\Documents\PROGRAMACION\CRUD C#\CRUD_PRODUCTOS\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Usuario\Documents\PROGRAMACION\CRUD C#\CRUD_PRODUCTOS\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\Usuario\Documents\PROGRAMACION\CRUD C#\CRUD_PRODUCTOS\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\Documents\PROGRAMACION\CRUD C#\CRUD_PRODUCTOS\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\Usuario\Documents\PROGRAMACION\CRUD C#\CRUD_PRODUCTOS\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\Documents\PROGRAMACION\CRUD C#\CRUD_PRODUCTOS\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\PROGRAMACION\CRUD C#\CRUD_PRODUCTOS\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\Usuario\Documents\PROGRAMACION\CRUD C#\CRUD_PRODUCTOS\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Usuario\Documents\PROGRAMACION\CRUD C#\CRUD_PRODUCTOS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\PROGRAMACION\CRUD C#\CRUD_PRODUCTOS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Usuario\Documents\PROGRAMACION\CRUD C#\CRUD_PRODUCTOS\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Usuario\Documents\PROGRAMACION\CRUD C#\CRUD_PRODUCTOS\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
